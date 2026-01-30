@@ -1,3 +1,3 @@
 # ROOTTEAM-STEALER-ANALYSIS
 
-[Malware Reverse Engineering_ Practical 4 RootTeam Stealer .pdf](https://github.com/user-attachments/files/24975670/Malware.Reverse.Engineering_.Practical.4.RootTeam.Stealer.pdf)
+https://docs.google.com/document/d/1pXgbM-5dEu9U8-_6j1EUnw0gq-raHaG0SK1Sk7KjKNU/edit?usp=sharing
